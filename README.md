@@ -1,12 +1,5 @@
 # Postgres cli
 
-
-Для начала ознакомьтесь с материалами по ссылкам:
-
-* [How to install mongodb (ubuntu)](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-18-04)
-* [How to install mongodb (macOS)](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
-* [Working with Mongo Shell](https://docs.mongodb.com/manual/mongo/#working-with-the-mongo-shell)
-
 Установите postgres, затем попробуйте выполнить несколько комманд в коммандной строке, чтобы понять как работать с PostgreSQL через CLI (Command line interface). 
 Затем переходите к выполнению релизов. Все команды, которые вы будете выполнять в ходе работы - записывайте в отдельный файл `commands.sql`, который лежит в корне проекта.
 
